@@ -69,8 +69,8 @@ const Hero = () => {
   return (
     <HeroWrapper>
       <div className="left">
-        <h1 className="hero__hey">你好呀! 我是 Yuzhou</h1>
-        <h2 className="hero__about-title">一个不知名星空摄影师，developer</h2>
+        <h1 className="hero__hey">你好呀! 我是 vincentzhou</h1>
+        <h2 className="hero__about-title">爱打游戏的后端</h2>
         <p className="hero__about">
           Welcome! It's great to have you here. I'm curious about the things under the nut, and I
           write some post about javascript and golang.
