@@ -55,7 +55,16 @@ const PostListHero = () => {
   return (
     <Wrapper>
       <UnderlineH2>Blog</UnderlineH2>
-      <p>{data.site.siteMetadata.docs.blogSlogan}</p>
+      <div style="display: flex;">
+        <p style="writing-mode: vertical-lr;text-indent: 1em;">隐约雷鸣</p >
+        <p style="writing-mode: vertical-lr;/* text-indent: 1em; */">阴霾天空</p >
+        <p style="writing-mode: vertical-lr;text-indent: 1em;">但盼风雨来</p >
+        <p style="writing-mode: vertical-lr;/* text-indent: 1em; */">能留你在此。</p >
+        <p style="writing-mode: vertical-lr;text-indent: 1em;">隐约雷鸣</p >
+        <p style="writing-mode: vertical-lr;/* text-indent: 1em; */">阴霾天空</p >
+        <p style="writing-mode: vertical-lr;text-indent: 1em;">纵使天无雨</p >
+        <p style="writing-mode: vertical-lr;/* text-indent: 1em; */">吾亦留此地。</p >
+      </div>
       <svg className="post-hero-bg" viewBox="0 0 1600 600" width="100%" height="200">
         <g className="swallow">
           <path
