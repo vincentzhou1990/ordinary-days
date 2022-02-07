@@ -271,7 +271,12 @@ a:focus {
   margin: var(--spacing-0) var(--spacing-0) var(--spacing-4) var(--spacing-0);
 }
 
-.gatsby-highlight {
+.ga     frameborder:no;
+      border: 0;
+      marginwidth: 0;
+      marginheight: 0;
+      width: 298;
+      height: 52;tsby-highlight {
   margin-bottom: var(--spacing-8);
 }
 
@@ -302,4 +307,18 @@ a:focus {
   .container {
     padding: var(--spacing-0) var(--spacing-5);
   }
+}
+
+.music-media {
+  position:fixed !important; 
+  position:absolute; 
+  display:block; 
+  bottom:0px; 
+  left:0px;
+  frameborder:no;
+  border: 0;
+  marginwidth: 0;
+  marginheight: 0;
+  width: 298;
+  height: 52;
 }

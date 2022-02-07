@@ -133,6 +133,7 @@ const Footer = () => {
           </PowerBy>
         </div>
       </div>
+      <iframe class="music-media" src="http://music.163.com/outchain/player?type=2&id=1832506754&auto=1&height=32" />
     </StyledFooter>
   );
 };
