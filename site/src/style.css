@@ -305,12 +305,9 @@ a:focus {
 }
 
 .music-media {
-  position:fixed !important; 
-  position:absolute; 
+  position:fixed !important;
   display:block; 
   bottom:0px; 
   left:0px;
-  border: 0;
-  width: 298;
-  height: 52;
+  border: 0; 
 }
