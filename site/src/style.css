@@ -271,12 +271,7 @@ a:focus {
   margin: var(--spacing-0) var(--spacing-0) var(--spacing-4) var(--spacing-0);
 }
 
-.ga     frameborder:no;
-      border: 0;
-      marginwidth: 0;
-      marginheight: 0;
-      width: 298;
-      height: 52;tsby-highlight {
+.gatsby-highlight {
   margin-bottom: var(--spacing-8);
 }
 
